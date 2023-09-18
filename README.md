@@ -5,7 +5,7 @@
 
 #
 
-  **`Student of Yogyakarta Multi Media High School (Game Designer, C# Beginner)`**
+  **`Student of Yogyakarta Multi Media State College (Game Designer, C# Beginner)`**
 <p align="justify">
 I'm a useless son of my mom who currently studying at STMM Yogyakarta. Highly interested in competitive gaming and very determined to win in every competition. Has a lot of experience in the mobile esport industry as a player. I've now moved from user to creator, and would like to create more competitive games in the future. Besides game development, C# also interesting to learn.
 </p>
