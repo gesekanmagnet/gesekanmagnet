@@ -7,7 +7,7 @@
 
   **`Student of Yogyakarta Multi Media State College (Game Designer, C# Beginner)`**
 <p align="justify">
-I'm a useless son of my mom who currently studying at STMM Yogyakarta. Highly interested in competitive gaming and very determined to win in every competition. Has a lot of experience in the mobile esport industry as a player. I've now moved from user to creator, and would like to create more competitive games in the future. Besides game development, C# also interesting to learn.
+Curently majoring Animation and Game Technology at STMM MMTC Yogyakarta. Highly interested in competitive gaming and very determined to win in every competition. Moved from user to creator, I would like to create more competitive games in the future. Besides game development, both C# and .NET are also interesting to learn.
 </p>
   <a href="https://github.com/gesekanmagnet?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gesekanmagnet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
